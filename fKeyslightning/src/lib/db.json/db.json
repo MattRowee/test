@@ -1,0 +1,60 @@
+{
+    "employees": [
+        {
+            "id": 1,
+            "name": "Matt",
+            "departmentId":"1",
+            "computerId":"1"
+        },
+        {
+            "id": 2,
+            "name": "Mary",
+            "departmentId":"2",
+            "computerId":"2"
+        },
+        {
+            "id": 3,
+            "name": "Jenni",
+            "departmentId":"3",
+            "computerId":"1"
+        }
+    ],
+    "departments": [
+        {
+            "id": 1,
+            "departmentName": "IT"
+        },
+        {
+            "id": 2,
+            "departmentName": "Finance"
+        },
+        {
+            "id": 3,
+            "departmentName": "Human Resources"
+        },
+        {
+            "id": 4,
+            "departmentName": "Maintenance"
+        }
+    ],
+    "computers": [
+        {
+            "id": 1,
+            "computerType": "2015 Macbook Pro"
+
+        },
+        {
+            "id": 2,
+            "computerType": "2010 Dell"
+        },
+        {
+            "id": 3,
+            "computerType": "2017 Acer"
+        },
+        {
+            "id": 4,
+            "computerType": "2238 Gateway"
+        }
+    ]
+}
+
